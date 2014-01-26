@@ -1,0 +1,23 @@
+{
+  "name": "jasmine-requirehelper",
+  "version": "0.0.0",
+  "description": "A library to mock/inject dependencies in require",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benhughes/jasmine-requirehelper.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-karma": "~0.6.2"
+
+  },
+  "author": "",
+  "license": "MIT"
+}
